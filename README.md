@@ -1,2 +1,2 @@
 # Alurabook
-Projeto do Curso de responsvidade da Alura
+Projeto do Curso de responsivi  da alura
